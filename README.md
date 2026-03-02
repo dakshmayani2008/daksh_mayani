@@ -35,7 +35,7 @@ I’m eager to contribute to impactful projects, collaborate with diverse teams,
 
 ---
 ## 🤝 Let’s Connect!
-
+linkdin profile:https://www.linkedin.com/in/daksh-mayani/
 
 
 ---
