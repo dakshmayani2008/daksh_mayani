@@ -1,12 +1,12 @@
 # 👋 Hi there, I’m Daksh mayani!
 
-🎯 **Junior Data Analyst | Aspiring Data Scientist | Turning Data into Insights**
+🎯 **Junior Data Analyst **
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m an aspiring **Data Analyst and Data Scientist** with a strong foundation in **Python, SQL, and data visualization tools**.  
+I’m an aspiring **Data Analyst ** with a strong foundation in **Python, SQL, and data visualization tools**.  
 I’m passionate about transforming raw data into **actionable insights and intelligent solutions** that drive smarter decision-making, optimize processes, and create real business value.  
 
 My skill set spans **Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)**, **SQL**, and visualization with **Power BI, Tableau, and Excel**.  
